@@ -2,6 +2,10 @@
   "name": "file-upload--test",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": "8.2.1",
+    "npm": "5.3.0"
+  },
   "scripts": {
     "start": "node --inspect ./bin/www"
   },
